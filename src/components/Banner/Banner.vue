@@ -2,7 +2,7 @@
     <div class="container">
       <h3 class="title">{{ name }}</h3>
       <section>
-        <ProductInfo v-for="num in 4" :key="num"></ProductInfo>
+        <ProductInfo v-for="item in data" :key="item" :data="item"></ProductInfo>
       </section>
       <button class="view-all">View all</button>
     </div>
@@ -14,7 +14,7 @@
     name: 'ProductBanner',
     props: {
       name: String,
-      data: [],
+      data: Array,
     },
     components: {
       ProductInfo,
@@ -26,7 +26,6 @@
 <style scoped>
   .container {
     padding: 40px 0;
-    overflow: hidden;
   }
   .title {
     margin:30px;
@@ -44,7 +43,7 @@
   }
   section{
     display: flex;
-    
+    overflow: scroll;
   }
 </style>
   

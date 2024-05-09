@@ -65,11 +65,14 @@ export default {
     .dressStyle1,
     .dressStyle2 {
       width: 100%;
-      height: 300px;
+      height: 200px !important;
       padding: 0;
+      margin: 6px 0;
     } 
     img {
       height: auto;
+      object-fit: cover;
+      height: 200px !important;
     }
     .msg{
       font-size: 24px;

@@ -2,16 +2,18 @@
     <Poster></Poster>
     <brand></brand>
     <div class="bodyContainer">
-        <Banner name="NEW ARRIVALS"></Banner>
+        <Banner name="NEW ARRIVALS" :data="data1"></Banner>
         <v-divider></v-divider>
-        <Banner name="TOP SELLING"></Banner>
-        <Group name="BROWSE BY DRESS STYLE"</Group>
+        <Banner name="TOP SELLING" :data="data2"></Banner>
+        <Group name="BROWSE BY DRESS STYLE"></Group>
         <Customer title="OUR HAPPY CUSTOMERS" style="margin-bottom: 140px"></Customer>
     </div>
     <Contact class="contact"></Contact>
 </template>
 
 <script>
+    import data1 from '@/assets/data1.json';
+    import data2 from '@/assets/data2.json';
     import Banner from '@/components/Banner/Banner.vue';
     import Group from '@/components/Banner/Group.vue';
     import Poster from '@/components/Banner/Poster.vue';
@@ -28,6 +30,12 @@
             Customer,
             Contact,
         },
+        data() {
+            return {
+                data1: data1,
+                data2: data2,
+            }
+        }
     }
 </script>
 

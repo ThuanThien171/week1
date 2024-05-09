@@ -2,10 +2,10 @@
     <div class="container">
       <h3 class="title">{{ name }}</h3>
       <section>
-        <DressStyle name="1"  :typeBox="1" :img="url"></DressStyle>
-        <DressStyle name="2" :typeBox="2" :img="url"></DressStyle>
-        <DressStyle name="3"  :typeBox="2" :img="url"></DressStyle>
-        <DressStyle name="4" :typeBox="1" :img="url"></DressStyle>
+        <DressStyle name="Casual"  :typeBox="1" img="src/assets/s1.png"></DressStyle>
+        <DressStyle name="Formal" :typeBox="2" img="src/assets/s2.png"></DressStyle>
+        <DressStyle name="Party"  :typeBox="2" img="src/assets/s3.png"></DressStyle>
+        <DressStyle name="Gym" :typeBox="1" img="src/assets/s4.png"></DressStyle>
       </section>
     </div>
 </template>
@@ -54,6 +54,7 @@ export default {
             margin: 0 30px;
             font-size: 32px;
             line-height: 36px;
+            margin-bottom: 20px;
         }
     }
 </style>

@@ -1,0 +1,28 @@
+[
+    {
+        "img": "https://s3-alpha-sig.figma.com/img/e01f/5d3c/d9029bd465a4c7158689ab1619693014?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mRDxJOKl6sAkEPtHw~sfYwBrcpFlXd03jKZLQ~LOwIzm69LbvRkSFz5RaxsUSGYSZBalysznWEaa6FOdwttacctkYSQgqXQr6RFsDVe6ca6I28uHpwULd~tm72HVrlI8bTPY-mPqn3wwkJw0rk-aivpaJwn6TLKIwHf45SF3bgk8ZEhJHgbDb1PJ9-bO80HsN6-Fo4m66ocDZQShkDlEyG6aMfOuG4irIIcWDGvdxOJvgNGT~n~hAyl3lBiSqtYu8L7WlasVEZtPgkDD5rimdf0FWLvVrwJtAdU28nnHkk0eg9fsIpQkKooTKUG-4jar2Cdhi0ddDBhWjPZ~UhZF1w__",
+        "productName": "VERTICAL STRIPED SHIRT",
+        "price": 212,
+        "rating": 5,
+        "oldPrice": 232,
+        "promo": 20
+    },
+    {
+        "img": "https://s3-alpha-sig.figma.com/img/5723/4b01/d5fcac5632cf6823570ca2d1d53d7d73?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XfxHwo6Z01OPUGvKRfV1eCXvi6gxpD8zOUU5hTO1Dz3CfRxXizxLeIQz-4NwERSEMFUddQU6v7~Zk1TpHwwBpEPpLvZWDCmnwIQGCrZegSTtKYiAiSAlBHtg~WY70ua1k3Lgl5hMsu7F2wJ~st7BJcn1pUa6pSmPPsp9rOvCMaU9xRJr0ROdS7gj7EdiuNKgln3cVD0jXFyPnUw6QvJfRkxGreHmrYaG-RzORtiaRbpqZ7-gMU-Mt6kqMrXWhkd5qoI1~0tyMjLTTfhMxDT2d8t38rUer884dqz0x081jq2mcuQqMtxxBDvP3w0HPbSGoakHIvtyxG-KLQcAVXQ0dQ__",
+        "productName": "COURAGE GRAPHIC T-SHIRT",
+        "price": 145,
+        "rating": 4
+    },
+    {
+        "img": "https://s3-alpha-sig.figma.com/img/8951/5d71/4a66d9ca1401101dee4cc689f8bb5ad2?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HshrFBozkh-6mWChOK9g0IiVX3kUhuRcIyb7k4yL6M8EFLTzbJXf2PZqzFEMPPrLyO0-W6Jt3yjvceGa2HG6VDXGNelONZvuvjvvN8l9c7~zDrHbs9MfUL58mpb5AwtMs9zT0bvj~Iih~J7T3mJrK3p-HL37vo4qbwcaNfeyrw5KbMSF8j0z4jv~enGbxf8TsRaxq4JDtHi1dpOSVDXlSFaCMwhYWgiyiTZr26vo-7HVqIsDwCkCNRua0ndLtLECrgiqAQl4lTRk99UQmo0La1p-Nrj40uHjA5iMta5462hCT6eqlbz7EdgvAuNVWWFMEkqy7rqo4ROHfUUoNzjB2A__",
+        "productName": "LOOSE FIT BERMUDA SHORTS",
+        "price": 80,
+        "rating": 3
+    },
+    {
+        "img": "https://s3-alpha-sig.figma.com/img/f180/c768/08e2ff8a46be56aa933f031aed3abe75?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mQf-Xsf9ihZXrsvCE1v23O4IFWAaY6I0MrL7UuzHVMyICvfIClmmf9AKQ4FBcBaO6eNyDWomKAsq8C7~YsWdO4vvfUKA6EiA8CohK0vHr-Ex3P3Lc6ZIICDlR8fUDYzhInPEH1gNojqrLOnytev5~kOnUCRLjTKg~Ew1ueqoO0ZLa9lIicaDX1BPTM5NI7q5omOr3FFx9iMNXh8mKuaYOVADHe1mam6eVW10fxuPVQhixPYDwBAcD5YjVscrs-vX4Z4vJRe6TEyRiGBj5Zggnb03lNPIeC8BYCo3TjwlU9Peo1keuf5s9v-q~M2XUwLTubUdd7cAehCSQZamxB7SfQ__",
+        "productName": "FADED SKINNY JEANS",
+        "price": 210,
+        "rating": 4.5
+    }
+]

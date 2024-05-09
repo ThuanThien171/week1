@@ -83,6 +83,9 @@ export default {
 </script>
     
 <style scoped>
+    .container {
+        padding: 0;
+    }
     .header {
         display: flex;
         align-items: flex-end;
