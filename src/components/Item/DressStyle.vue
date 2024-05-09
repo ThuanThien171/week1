@@ -23,6 +23,9 @@ export default {
       }
     },
     computed:{
+      // getImgUrl() {
+      //   return new URL(`${this.img}`, import.meta.url).href
+      // }
     },
     methods:{
     }

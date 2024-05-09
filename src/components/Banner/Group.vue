@@ -2,10 +2,18 @@
     <div class="container">
       <h3 class="title">{{ name }}</h3>
       <section>
-        <DressStyle name="Casual"  :typeBox="1" img="src/assets/s1.png"></DressStyle>
-        <DressStyle name="Formal" :typeBox="2" img="src/assets/s2.png"></DressStyle>
-        <DressStyle name="Party"  :typeBox="2" img="src/assets/s3.png"></DressStyle>
-        <DressStyle name="Gym" :typeBox="1" img="src/assets/s4.png"></DressStyle>
+        <DressStyle name="Casual"  :typeBox="1" 
+            img="https://firebasestorage.googleapis.com/v0/b/thienproject-2a65d.appspot.com/o/s1.png?alt=media&token=3522a58f-fc30-4822-af47-7bb2bdab1751"
+            ></DressStyle>
+        <DressStyle name="Formal" :typeBox="2" 
+            img="https://firebasestorage.googleapis.com/v0/b/thienproject-2a65d.appspot.com/o/s2.png?alt=media&token=09212c8a-793b-4c5d-b4d4-05651a82d6ac"
+            ></DressStyle>
+        <DressStyle name="Party"  :typeBox="2" 
+            img="https://firebasestorage.googleapis.com/v0/b/thienproject-2a65d.appspot.com/o/s3.png?alt=media&token=62d95970-c707-4a1d-ad8a-a607c50ff6cb"
+            ></DressStyle>
+        <DressStyle name="Gym" :typeBox="1" 
+            img="https://firebasestorage.googleapis.com/v0/b/thienproject-2a65d.appspot.com/o/s4.png?alt=media&token=1119ba11-2bc8-4957-b2b6-d62f2d910517"
+            ></DressStyle>
       </section>
     </div>
 </template>
