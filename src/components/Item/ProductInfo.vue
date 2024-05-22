@@ -85,10 +85,12 @@
 
   img {
     border-radius: 20px;
-    width: 300px;
-    height: 300px;
+    width: 295px;
+    height: 298px;
     object-fit: cover;
+    background: url('https://firebasestorage.googleapis.com/v0/b/thienproject-2a65d.appspot.com/o/Images%2FMenu%2Fimages.jfif?alt=media&token=2a11cefd-7c27-4aa7-92f3-ec53a36f7869') no-repeat;
   }
+
   .promo {
     width: 58px;
     height: 28px;
